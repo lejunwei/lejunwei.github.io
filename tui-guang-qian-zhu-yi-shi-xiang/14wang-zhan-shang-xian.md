@@ -15,6 +15,7 @@
 - ftp服务器
 - apache/nginx or windows 
 - mysql 数据
+- 开启服务器压缩(gzip)
 
 ###服务器安全策略
 待更新
@@ -25,6 +26,42 @@
 3. 自定义表单 （自身网站表单系统、外部表单系统如金数据。麦克crm）
 4. 号码抓取软件（非合法）
 
-## 常用网站补码
+## 常用网站布码
 1. 网站统计代码(如百度统计 google分析等、建议投放那个平台广告就安装那个平台代码有利于分析广告投放效果)
-2.广告效果追踪代码 （网站跳转到任意位置后面都会跟着追踪参数）
+
+2. 广告效果追踪代码 （网站跳转到任意位置后面都会跟着追踪参数）代码如下 [下载点这里](https://pan.baidu.com/s/1qXJHdec)
+
+				function _G() {
+					var d = window.location.href;
+					var f = d.indexOf("utm_source");
+					if (f != "-1") {
+						var a = d.substr(f);
+						var e = document.getElementsByTagName("a");
+						for (var b = 0; b < e.length; b++) {
+							if (e[b].href.indexOf("#") != "-1") {
+								continue;
+							} else {
+								if (e[b].href.indexOf("?") != "-1" || e[b].href.indexOf("utm_source") != "-1") {
+										value = e[b].href + "&" + a;
+										e[b].href = value;
+								} else {
+									if (e[b].href.indexOf("javascript") != "-1") {
+										continue;
+									} else {
+											value = e[b].href + "?" + a;
+											e[b].href = value;
+									}
+								}
+							}
+						}
+					}
+				}
+				
+				window.onload = _G();
+3. 网站热力图分析工具 [铂金分析](/ptengine.cn)
+4. 商机捕获工具(商桥、离线宝、抓取等)
+
+##常用网站加速方法
+1. 网站图片压缩VisiPics [下载](https://pan.baidu.com/s/1qXB937u) 4ij2
+2. CDN 
+3. <font color=red>DNSPOD 域名解析加速</font>
