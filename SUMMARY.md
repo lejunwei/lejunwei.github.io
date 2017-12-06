@@ -8,6 +8,7 @@
   * [网站上线](tui-guang-qian-zhu-yi-shi-xiang/14wang-zhan-shang-xian.md)
 * [投放渠道](tou-fang-qu-dao.md)
   * [搜索推广](tou-fang-qu-dao/sou-suo-tui-guang.md)
-    * [账户设置](tou-fang-qu-dao/sou-suo-tui-guang/zhang-hu-she-zhi.md)
+    * [账户基本设置](tou-fang-qu-dao/sou-suo-tui-guang/zhang-hu-she-zhi.md)
+    * [账户搭建](tou-fang-qu-dao/sou-suo-tui-guang/zhang-hu-da-jian.md)
   * [信息流推广](tou-fang-qu-dao/22xin-xi-liu-tui-guang.md)
 
