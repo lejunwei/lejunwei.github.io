@@ -13,5 +13,6 @@
     * [效果追踪](tou-fang-qu-dao/sou-suo-tui-guang/xiao-guo-zhui-zong.md)
     * [账户否词](tou-fang-qu-dao/sou-suo-tui-guang/zhang-hu-fou-ci.md)
   * [信息流推广](tou-fang-qu-dao/22xin-xi-liu-tui-guang.md)
-  * 搜索推广与信息流推广区别
+  * [搜索推广与信息流推广](tou-fang-qu-dao/sou-suo-tui-guang-yu-xin-xi-liu-tui-guang-qu-bie.md)
+* [数据分析](shu-ju-fen-xi.md)
 
