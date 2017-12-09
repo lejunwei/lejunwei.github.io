@@ -44,3 +44,14 @@ http://wwwmysite.com/product.htm?linkid=bottomMenu
 - utm_term=hmkw [关键词]
 - utm_content=hmci [标记广告]
 如果同时出现相对应的两个参数，以 hm 参数值为准。例如 url 中出现 hmsr=weixin&utm_source = 微信，则来源标识为 weixin。
+
+##百度动态参数解析
+- e_keywordid= 关键词唯一标识(对接api或者使用百度推广助手可查看)
+- e_matchtype={matchtype} **匹配模式**
+- e_creative={creative} **触发创意**
+- e_adposition={adposition} **展现排名**
+
+    标识方法为：位置 + 排名。有如下展现位置，分别用字母缩写标识为 **cl：pc 左侧无底色**，**clg：pc 左侧有底色**，**mt：无线上方**，**mb：无线下方**，排名用具体数字标识。例如：e_adposition=cl3 代表该点击来自 pc 左侧无底色广告位第 3 名。
+- e_pagenum={pagenum} **搜索结构触发页面**
+
+
