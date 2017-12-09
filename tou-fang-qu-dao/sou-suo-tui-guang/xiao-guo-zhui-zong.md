@@ -11,6 +11,13 @@
 ##使用UTM参数
 所有推广链接都使用UTM连接追踪 可以把流量来源、转化、ROI 都分析清楚
 
+##同一网站相同的URL如何追踪
+通过添加不同的查询参数来稍微修改一下每一个URL，我们就可以区分这些链接了，按编号排序如下：
+http://www.mysite.com/product.htm?linkid=topMenu
+http://www.mysite.com/prOduct.htm?linkid=titleBox
+http://www.mysite.com/product.htm?linkid=content
+htp://www.mysite.com/product.htm?linkid=listBottom
+http://wwwmysite.com/product.htm?linkid=bottomMenu
 
 ##百度推广UTM参数
 - utm_source    [渠道]
