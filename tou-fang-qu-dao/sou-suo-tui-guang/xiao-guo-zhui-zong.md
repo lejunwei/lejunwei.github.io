@@ -7,8 +7,6 @@
     if ($request_uri = /index.html ) { return 301 http://www.xxx.net/index.html?seo; }  
 ##使用UTM参数
 
-
-
 所有推广链接都使用UTM连接追踪 可以把流量来源、转化、ROI 都分析清楚
 
 ##百度推广UTM参数
@@ -21,4 +19,18 @@
 - utm_size     [标记素材规格]
 - utm_Billing     [标记计费方式]
 
-##
+##百度hm参数
+- hm 参数在百度统计中的意义: 
+- hmsr: 媒体平台参数，一般用于标识广告投放的广告主、网站等信息，该参数为必填的物料信息。 
+- hmpl: 计划名称参数，一般用于标识广告所属的推广计划信息，只有设置了推广计划信息，才可以设置推广单元信息。 
+- hmcu: 单元名称参数，一般用于标识广告所属的推广单元信息，只有设置了推广单元信息，才可以设置关键词和创意信息。 
+- hmkw: 关键词参数，一般用于标识触发广告的关键词信息。 
+- hmci: 创意参数，一般用于标识广告的创意形式信息。
+
+##utm 参数与 hm 参数的对应关系为： 
+- utm_source=hmsr [渠道]
+- utm_medium=hmpl [计划] 
+- utm_campaign=hmcu [单元]
+- utm_term=hmkw [关键词]
+- utm_content=hmci [标记广告]
+如果同时出现相对应的两个参数，以 hm 参数值为准。例如 url 中出现 hmsr=weixin&utm_source = 微信，则来源标识为 weixin。
