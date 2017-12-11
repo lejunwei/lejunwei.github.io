@@ -25,4 +25,5 @@
 
 * 推广理论
   * [边际效应](tui-guang-li-lun/bian-ji-xiao-ying.md)
+  * [认知负荷](tui-guang-li-lun/ren-zhi-fu-he.md)
 
