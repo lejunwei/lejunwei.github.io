@@ -11,7 +11,6 @@
 * [投放渠道](tou-fang-qu-dao.md)
   * [搜索推广](tou-fang-qu-dao/sou-suo-tui-guang.md)
     * [账户基本设置](tou-fang-qu-dao/sou-suo-tui-guang/zhang-hu-she-zhi.md)
-    * [账户搭建](tou-fang-qu-dao/sou-suo-tui-guang/zhang-hu-da-jian.md)
     * [效果追踪](tou-fang-qu-dao/sou-suo-tui-guang/xiao-guo-zhui-zong.md)
     * [关键词](tou-fang-qu-dao/sou-suo-tui-guang/guan-jian-ci.md)
     * [计划搭建](tou-fang-qu-dao/sou-suo-tui-guang/ji-hua-da-jian.md)
