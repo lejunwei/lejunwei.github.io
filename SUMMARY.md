@@ -23,7 +23,8 @@
 
 ## 推广理论
 
-* 推广理论
+* [推广理论](tui-guang-li-lun/tui-guang-li-lun.md)
   * [边际效应](tui-guang-li-lun/bian-ji-xiao-ying.md)
   * [认知负荷](tui-guang-li-lun/ren-zhi-fu-he.md)
+  * [马斯洛需求理论](tui-guang-li-lun/ma-si-luo-xu-qiu-li-lun.md)
 
