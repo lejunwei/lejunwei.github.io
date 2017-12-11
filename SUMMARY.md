@@ -29,4 +29,5 @@
   * [马斯洛需求理论](tui-guang-li-lun/ma-si-luo-xu-qiu-li-lun.md)
   * [5w1h ](tui-guang-li-lun/5w1h-liu-he-fen-xi-fa.md)
   * [2/8原则](tui-guang-li-lun/28yuan-ze.md)
+  * [超限效应](tui-guang-li-lun/chao-xian-xiao-ying.md)
 
