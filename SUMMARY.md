@@ -23,5 +23,6 @@
 
 ## 推广理论
 
-* [边际效应](tui-guang-li-lun/bian-ji-xiao-ying.md)
+* 推广理论
+  * [边际效应](tui-guang-li-lun/bian-ji-xiao-ying.md)
 
