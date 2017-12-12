@@ -21,6 +21,7 @@
   * [SEO与搜索推广](tou-fang-qu-dao/seo.md)
 * [数据分析](shu-ju-fen-xi.md)
   * [数据分析工具](shu-ju-fen-xi/shu-ju-fen-xi-gong-ju.md)
+  * [消费数据](shu-ju-fen-xi/xiao-fei-shu-ju.md)
 
 ## 推广理论
 
