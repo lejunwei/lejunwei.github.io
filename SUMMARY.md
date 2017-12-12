@@ -20,6 +20,7 @@
   * [搜索推广与信息流推广](tou-fang-qu-dao/sou-suo-tui-guang-yu-xin-xi-liu-tui-guang-qu-bie.md)
   * [SEO与搜索推广](tou-fang-qu-dao/seo.md)
 * [数据分析](shu-ju-fen-xi.md)
+  * [数据分析工具](shu-ju-fen-xi/shu-ju-fen-xi-gong-ju.md)
 
 ## 推广理论
 
