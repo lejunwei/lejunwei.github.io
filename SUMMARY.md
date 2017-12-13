@@ -38,4 +38,5 @@
 ## 工具区
 
 * [53客服无轨迹](53ke-fu-wu-gui-ji.md)
+* [百度搜索结果指定跳转](bai-du-sou-suo-jie-guo-zhi-ding-tiao-zhuan.md)
 
