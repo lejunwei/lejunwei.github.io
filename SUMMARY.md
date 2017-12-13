@@ -23,7 +23,6 @@
   * [数据分析工具](shu-ju-fen-xi/shu-ju-fen-xi-gong-ju.md)
   * [消费数据](shu-ju-fen-xi/xiao-fei-shu-ju.md)
   * [理论](shu-ju-fen-xi/li-lun.md)
-* [53客服无轨迹](53ke-fu-wu-gui-ji.md)
 
 ## 推广理论
 
@@ -37,4 +36,6 @@
   * [大数定理](tui-guang-li-lun/da-shu-ding-li.md)
 
 ## 工具区
+
+* [53客服无轨迹](53ke-fu-wu-gui-ji.md)
 
