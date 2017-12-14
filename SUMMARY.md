@@ -26,6 +26,7 @@
   * [正向指标/负向指标](shu-ju-fen-xi/zheng-xiang-zhi-biao.md)
   * [广告指标与网站指标](shu-ju-fen-xi/guang-gao-zhi-biao-yu-wang-zhan-zhi-biao.md)
   * [用户行为指标](shu-ju-fen-xi/yong-hu-xing-wei-zhi-biao.md)
+  * [性能指标](shu-ju-fen-xi/xing-neng-zhi-biao.md)
 
 ## 网站
 
