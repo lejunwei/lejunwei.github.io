@@ -23,6 +23,7 @@
   * [数据分析工具](shu-ju-fen-xi/shu-ju-fen-xi-gong-ju.md)
   * [消费数据](shu-ju-fen-xi/xiao-fei-shu-ju.md)
   * [计数指标/复合指标/货币指标](shu-ju-fen-xi/li-lun.md)
+  * [正向指标/负向指标](shu-ju-fen-xi/zheng-xiang-zhi-biao.md)
 
 ## 网站
 
