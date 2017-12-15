@@ -21,6 +21,7 @@
   * [SEO与搜索推广](tou-fang-qu-dao/seo.md)
 * [数据分析](shu-ju-fen-xi.md)
   * [数据分析工具](shu-ju-fen-xi/shu-ju-fen-xi-gong-ju.md)
+  * [网站分析方法](shu-ju-fen-xi/wang-zhan-fen-xi-fang-fa.md)
   * [消费数据](shu-ju-fen-xi/xiao-fei-shu-ju.md)
   * [计数指标/复合指标/货币指标](shu-ju-fen-xi/li-lun.md)
   * [正向指标/负向指标](shu-ju-fen-xi/zheng-xiang-zhi-biao.md)
