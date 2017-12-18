@@ -29,6 +29,10 @@
   * [用户行为指标](shu-ju-fen-xi/yong-hu-xing-wei-zhi-biao.md)
   * [性能指标](shu-ju-fen-xi/xing-neng-zhi-biao.md)
 
+## 语文知识
+
+* [主谓宾](yu-wen-zhi-shi/zhu-wei-bin.md)
+
 ## 网站
 
 * [网站结构](wang-zhan/wang-zhan-jie-gou.md)
