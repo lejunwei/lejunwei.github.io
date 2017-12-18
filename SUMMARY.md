@@ -27,6 +27,11 @@
   * [性能指标](shu-ju-fen-xi/xing-neng-zhi-biao.md)
   * [数据分析基础知识](shu-ju-fen-xi/shu-ju-fen-xi-ji-chu-zhi-shi.md)
 
+## 流量分析
+
+* [网站流量访客类型](tui-guang-qian-zhu-yi-shi-xiang/13que-ren-wang-zhan-fang-ke.md)
+* [流量分析质与量](tui-guang-qian-zhu-yi-shi-xiang/liu-liang-fen-xi-zhi-yu-liang.md)
+
 ## 语文知识
 
 * [主谓宾](yu-wen-zhi-shi/zhu-wei-bin.md)
@@ -34,7 +39,6 @@
 ## 网站
 
 * [网站盈利前提](tui-guang-qian-zhu-yi-shi-xiang/12wang-zhan-ying-li-qian-ti.md)
-* [网站访客类型](tui-guang-qian-zhu-yi-shi-xiang/13que-ren-wang-zhan-fang-ke.md)
 * [网站上线](tui-guang-qian-zhu-yi-shi-xiang/14wang-zhan-shang-xian.md)
 
 ## 网站分析
