@@ -28,6 +28,7 @@
   * [广告指标与网站指标](shu-ju-fen-xi/guang-gao-zhi-biao-yu-wang-zhan-zhi-biao.md)
   * [用户行为指标](shu-ju-fen-xi/yong-hu-xing-wei-zhi-biao.md)
   * [性能指标](shu-ju-fen-xi/xing-neng-zhi-biao.md)
+  * [数据分析基础知识](shu-ju-fen-xi/shu-ju-fen-xi-ji-chu-zhi-shi.md)
 
 ## 语文知识
 
