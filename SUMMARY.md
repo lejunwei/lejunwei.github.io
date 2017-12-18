@@ -35,9 +35,11 @@
 
 * [网站盈利前提](tui-guang-qian-zhu-yi-shi-xiang/12wang-zhan-ying-li-qian-ti.md)
 * [网站访客类型](tui-guang-qian-zhu-yi-shi-xiang/13que-ren-wang-zhan-fang-ke.md)
-* [网站结构](wang-zhan/wang-zhan-jie-gou.md)
 * [网站上线](tui-guang-qian-zhu-yi-shi-xiang/14wang-zhan-shang-xian.md)
-* [网站页面类型](tui-guang-qian-zhu-yi-shi-xiang/wang-zhan-ye-mian-lei-xing.md)
+
+## 网站分析
+
+* [网站结构](wang-zhan/wang-zhan-jie-gou.md)
 
 ## 推广理论
 
