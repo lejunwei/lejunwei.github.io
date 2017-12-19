@@ -1,0 +1,5 @@
+- 必须是具体的（Specific）
+- 必须是可以衡量的（Measurable）
+- 必须是可以达到的（Attainable）
+- 是要与其他目标具有一定的相关性 (Relevant)
+- 必须具有明确的截止期限（Time-bound）

@@ -45,7 +45,9 @@
 
 ## 网站分析
 
+* [KGI/CSF/KPI](wang-zhan/que-ding-kgi.md)
 * [网站结构](wang-zhan/wang-zhan-jie-gou.md)
+* [网站优化](wang-zhan/wang-zhan-you-hua.md)
 
 ## 推广理论
 
@@ -58,6 +60,7 @@
   * [超限效应](tui-guang-li-lun/chao-xian-xiao-ying.md)
   * [大数定理](tui-guang-li-lun/da-shu-ding-li.md)
   * [GIGO原则](tui-guang-li-lun/gigoyuan-ze.md)
+  * [SMART 原则](tui-guang-li-lun/smart-yuan-ze.md)
 
 ## 工具区
 
