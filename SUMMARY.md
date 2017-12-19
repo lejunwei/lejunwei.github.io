@@ -29,7 +29,7 @@
 
 ## 流量分析
 
-* [网站流量访客类型](tui-guang-qian-zhu-yi-shi-xiang/13que-ren-wang-zhan-fang-ke.md)
+* [来访者分类](tui-guang-qian-zhu-yi-shi-xiang/13que-ren-wang-zhan-fang-ke.md)
 * [流量分析质与量](tui-guang-qian-zhu-yi-shi-xiang/liu-liang-fen-xi-zhi-yu-liang.md)
 * [点击流分析](tui-guang-qian-zhu-yi-shi-xiang/dian-ji-liu-fen-xi.md)
 * [事件监测](tui-guang-qian-zhu-yi-shi-xiang/shi-jian-jian-ce.md)
