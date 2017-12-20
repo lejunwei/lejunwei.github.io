@@ -26,6 +26,7 @@
   * [用户行为指标](shu-ju-fen-xi/yong-hu-xing-wei-zhi-biao.md)
   * [性能指标](shu-ju-fen-xi/xing-neng-zhi-biao.md)
   * [数据分析基础知识](shu-ju-fen-xi/shu-ju-fen-xi-ji-chu-zhi-shi.md)
+  * [趋势分析](shu-ju-fen-xi/qu-shi-fen-xi.md)
 
 ## 流量分析
 
