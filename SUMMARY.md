@@ -49,6 +49,7 @@
 * [KGI/CSF/KPI](wang-zhan/que-ding-kgi.md)
 * [网站结构](wang-zhan/wang-zhan-jie-gou.md)
 * [网站优化](wang-zhan/wang-zhan-you-hua.md)
+* [网站分析用户分类](wang-zhan/wang-zhan-fen-xi-yong-hu-fen-lei.md)
 
 ## 推广理论
 
