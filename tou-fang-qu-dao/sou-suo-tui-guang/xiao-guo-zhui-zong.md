@@ -18,6 +18,9 @@ http://www.mysite.com/product.htm?linkid=content
 htp://www.mysite.com/product.htm?linkid=listBottom
 http://wwwmysite.com/product.htm?linkid=bottomMenu
 
+##URL案例
+    http://www.xxx.net/index.html?utm_source=baiduxxl&utm_medium=jiaobanbengji&utm_campaign=shoubai-1140%2F640-jiaobanbeng&utm_content=imagelink&ideal=ruhewangshangxuangoujiaobantuobengpinpai&utm_Billing=cpc&e_idea_id=69844167814&e_unit_id=2667461896&e_plan_id=79392749
+
 ##百度推广UTM参数
 - utm_source    [渠道]
 - utm_medium     [计划]
